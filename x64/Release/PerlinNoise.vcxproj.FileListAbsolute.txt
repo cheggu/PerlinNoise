@@ -1,2 +1,3 @@
 C:\Users\benja\Desktop\PerlinNoise\x64\Release\PerlinNoise.exe
 C:\Users\benja\Desktop\projects\PerlinNoise\x64\Release\PerlinNoise.exe
+C:\Users\benja\Desktop\projects\PerlinNoise-main\x64\Release\PerlinNoise.exe
