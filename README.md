@@ -6,10 +6,10 @@ Thanks to <a href=https://github.com/Reputeless/PerlinNoise/>Ryo Suzuki</a> for 
 
 <b>Controls</b>
 <li>
-<ul> Press 'R' to randomize the seed
-Press 'A' and 'D' to change the octaves
-Press 'Z' and 'C' to change the amplitude
-'Press '-' and '=' to change the step
+<ul>Press 'R' to randomize the seed</ul>
+<ul>Press 'A' and 'D' to change the octaves</ul>
+<ul>Press 'Z' and 'C' to change the amplitude</ul>
+<ul>Press '-' and '=' to change the step</ul>
 </li>
 
 Here's what it looks like right now:
