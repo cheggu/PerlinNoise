@@ -1,15 +1,16 @@
 ﻿  main.cpp
-C:\Users\benja\Desktop\PerlinNoise\Source\main.cpp(4,48): warning C4305: 'initializing': truncation from '__int64' to 'siv::BasicPerlinNoise<double>::seed_type'
-C:\Users\benja\Desktop\PerlinNoise\Source\main.cpp(4,36): warning C4309: 'initializing': truncation of constant value
-C:\Users\benja\Desktop\PerlinNoise\Source\main.cpp(25,69): warning C4244: 'argument': conversion from 'double' to 'int32_t', possible loss of data
-C:\Users\benja\Desktop\PerlinNoise\Source\main.cpp(46,46): warning C4244: 'argument': conversion from 'double' to 'sf::Uint8', possible loss of data
-C:\Users\benja\Desktop\PerlinNoise\Source\main.cpp(47,31): warning C4244: 'argument': conversion from 'double' to 'unsigned int', possible loss of data
-C:\Users\benja\Desktop\PerlinNoise\Source\main.cpp(47,28): warning C4244: 'argument': conversion from 'double' to 'unsigned int', possible loss of data
-C:\Users\benja\Desktop\PerlinNoise\Source\main.cpp(66,20): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
-C:\Users\benja\Desktop\PerlinNoise\Source\main.cpp(67,11): warning C4101: 'dt': unreferenced local variable
+C:\Users\benja\Desktop\projects\PerlinNoise\Source\helpers.h(6,22): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\benja\Desktop\projects\PerlinNoise\Source\helpers.h(13,48): warning C4305: 'initializing': truncation from '__int64' to 'siv::BasicPerlinNoise<double>::seed_type'
+C:\Users\benja\Desktop\projects\PerlinNoise\Source\helpers.h(13,36): warning C4309: 'initializing': truncation of constant value
+C:\Users\benja\Desktop\projects\PerlinNoise\Source\helpers.h(34,68): warning C4244: 'argument': conversion from 'double' to 'int32_t', possible loss of data
+C:\Users\benja\Desktop\projects\PerlinNoise\Source\helpers.h(55,46): warning C4244: 'argument': conversion from 'double' to 'sf::Uint8', possible loss of data
+C:\Users\benja\Desktop\projects\PerlinNoise\Source\helpers.h(56,31): warning C4244: 'argument': conversion from 'double' to 'unsigned int', possible loss of data
+C:\Users\benja\Desktop\projects\PerlinNoise\Source\helpers.h(56,28): warning C4244: 'argument': conversion from 'double' to 'unsigned int', possible loss of data
+C:\Users\benja\Desktop\projects\PerlinNoise\Source\main.cpp(13,20): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\benja\Desktop\projects\PerlinNoise\Source\main.cpp(14,11): warning C4101: 'dt': unreferenced local variable
   Generating code
-  1 of 171 functions ( 0.6%) were compiled, the rest were copied from previous compilation.
+  1 of 176 functions ( 0.6%) were compiled, the rest were copied from previous compilation.
     0 functions were new in current compilation
     0 functions had inline decision re-evaluated but remain unchanged
   Finished generating code
-  PerlinNoise.vcxproj -> C:\Users\benja\Desktop\PerlinNoise\x64\Release\PerlinNoise.exe
+  PerlinNoise.vcxproj -> C:\Users\benja\Desktop\projects\PerlinNoise\x64\Release\PerlinNoise.exe
