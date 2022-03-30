@@ -16,6 +16,6 @@ Here's what it looks like right now:
 
 ![Output sample](https://github.com/cheggu/PerlinNoise/blob/main/Media/noisetest.gif)
 
-I plan on adding a color changer, and an export function to bmp or png.
+I plan on adding a color changer, enterable values, and an export function to bmp or png.
 
 This was accomplished using C++ and <a href=https://www.sfml-dev.org/>SFML</a>
