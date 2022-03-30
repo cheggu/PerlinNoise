@@ -4,7 +4,7 @@
 
 int main() {
 
-    double octaves = 9, percistance = 1, step = 0.1;
+    double octaves = 9, percistance = 0.6, step = 0.1;
 
     sf::Texture texture;
 
