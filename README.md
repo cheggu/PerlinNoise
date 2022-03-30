@@ -5,14 +5,12 @@ This program visualizes Perlin Noise. The user can change various variables to g
 Thanks to <a href=https://github.com/Reputeless/PerlinNoise/>Ryo Suzuki</a> for the header file!
 
 <b>Controls</b>
-<li>
-  <ul>
-    Press 'R' to randomize the seed
-    Press 'A' and 'D' to change the octaves
-    Press 'Z' and 'C' to change the amplitude
-    Press '-' and '=' to change the step
-  </ul
-</li>
+<ul>
+  <li> Press 'R' to randomize the seed </li>
+  <li>  Press 'A' and 'D' to change the octaves</li>
+  <li>  Press 'Z' and 'C' to change the amplitude</li>
+  <li>  Press '-' and '=' to change the step</li>
+</ul>
 
 Here's what it looks like right now:
 
