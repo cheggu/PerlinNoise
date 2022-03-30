@@ -4,6 +4,14 @@ Visualized Perlin Noise
 This program visualizes Perlin Noise. The user can change various variables to generate new maps. 
 Thanks to <a href=https://github.com/Reputeless/PerlinNoise/>Ryo Suzuki</a> for the header file!
 
+<b>Controls</b>
+<ul>
+Press 'R' to randomize the seed
+Press 'A' and 'D' to change the octaves
+Press 'Z' and 'C' to change the amplitude
+'Press '-' and '=' to change the step
+</ul>
+
 Here's what it looks like right now:
 
 ![Output sample](https://github.com/cheggu/PerlinNoise/blob/main/Media/noisetest.gif)
